@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     background: url(bg1.jfif);
-    background: #2a3746 url(bg3.jpg) no-repeat center;
+    background: url(bg3.jpg) no-repeat center;
     background-blend-mode: overlay;
     background-size: cover;
 }
