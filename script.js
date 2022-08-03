@@ -83,11 +83,6 @@ let quoteArray = [
     },
 
     {
-        quotes: "Throughout life, people will make you mad, disrespect you and treat you bad. Let God deal with the things they do, cause hate in your heart will consume you too.",
-        person: "Will Smith"
-    },
-
-    {
         quotes: "Be happy for this moment. This moment is your life.",
         person: "Omar Khayyam"
     },
@@ -144,11 +139,6 @@ let quoteArray = [
     },
 
     {
-        quotes: "There's more to life than basketball. The most important thing is your family and taking care of each other and loving each other no matter what.",
-        person: "Stephen Curry"
-    },
-
-    {
         quotes: "Nobody who eve gave his best regretted it.",
         person: "John Wooden"
     },
@@ -161,11 +151,6 @@ let quoteArray = [
     {
         quotes: "Everyone should get a second chance to life.",
         person: "2pac"
-    },
-
-    {
-        quotes: "Change wil not come if we wait for some other person, or if we wait for some other time. We are the ones we've been waiting for. We are the change that we seek.",
-        person: "Barack Obama"
     },
 
     {
